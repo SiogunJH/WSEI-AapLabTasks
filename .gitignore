@@ -19,3 +19,4 @@ __pycache__/
 
 # Duże zbiory danych
 otomoto_offers_eng_23-04-2023.csv
+/zestaw_zaliczeniowy/_workspace/flaky_cache
